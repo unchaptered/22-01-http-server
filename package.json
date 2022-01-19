@@ -2,6 +2,7 @@
   "name": "project-2022-01-http-server",
   "version": "1.0.0",
   "description": "Develop http server by Node http module",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
