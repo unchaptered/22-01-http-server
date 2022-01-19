@@ -1,0 +1,19 @@
+{
+  "name": "project-2022-01-http-server",
+  "version": "1.0.0",
+  "description": "Develop http server by Node http module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unchaptered/22-01-http-server.git"
+  },
+  "author": "unchaptered",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unchaptered/22-01-http-server/issues"
+  },
+  "homepage": "https://github.com/unchaptered/22-01-http-server#readme"
+}
