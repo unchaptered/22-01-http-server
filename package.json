@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/unchaptered/22-01-http-server/issues"
   },
-  "homepage": "https://github.com/unchaptered/22-01-http-server#readme"
+  "homepage": "https://github.com/unchaptered/22-01-http-server#readme",
+  "dependencies": {
+    "axios": "^0.25.0"
+  }
 }
